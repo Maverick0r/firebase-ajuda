@@ -7,4 +7,17 @@ Nada mais é do que um gerenciador de aplicativos, com diversas funcionalidades 
 ## 🤔 O que é o Realtime Database?
 É um banco de dados NoSQL hospedado na nuvem. Com ele, você armazena e sincroniza dados entre os seus usuários em tempo real. Com isso, iremos poder salvar todos os dados enviados pelos nossos usuários por meio do Discord!
 
-# AINDA NÃO FINALIZADO!
+## 🔌 Iniciando o projeto!
+Para que tudo funcione corretamente, você deve logar-se no [console](https://console.firebase.google.com) do Firebase e seguir os passos abaixo:
+- Clique na opção **Adicionar projeto**;
+- **Insira um nome** desejado para que o seu projeto seja criado;
+- **Desative** o Google Analytics (Opcional);
+- **Aguarde** até a criação do projeto ser finalizada.
+
+Caso não tenha entendido muito bem, assista [este vídeo](https://www.youtube.com/watch?v=m2PcNkelJG0&t=19s&ab_channel=BrunoRaiado) a partir do minuto [3:00](https://www.youtube.com/watch?v=m2PcNkelJG0&t=19s&ab_channel=BrunoRaiado) até o minuto [3:15](https://www.youtube.com/watch?v=m2PcNkelJG0&t=19s&ab_channel=BrunoRaiado). Muito simples!
+
+## 📌 Configurando o projeto!
+Agora vamos configurar o projeto criado e dar "vida" à ele [...]
+
+
+# 🛠 Tutorial ainda em construção
