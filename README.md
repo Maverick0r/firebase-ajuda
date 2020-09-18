@@ -7,3 +7,4 @@ Nada mais é do que um gerenciador de aplicativos, com diversas funcionalidades 
 ## 🤔 O que é o Realtime Database?
 É um banco de dados NoSQL hospedado na nuvem. Com ele, você armazena e sincroniza dados entre os seus usuários em tempo real. Com isso, iremos poder salvar todos os dados enviados pelos nossos usuários por meio do Discord!
 
+# AINDA NÃO FINALIZADO!
