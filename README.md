@@ -26,4 +26,4 @@ Agora vamos configurar o projeto criado e dar "**vida**" a ele.
 
 
 # 🙋‍♂️ Ainda não acabou!
-- [🚀 Firebase 02]: Ligando o bot ao Firebase.
+- [[🚀 Firebase 02]: Ligando o bot ao Firebase.](https://github.com/Maverick0r/firebase-ajuda/blob/master/firebase02.md)
