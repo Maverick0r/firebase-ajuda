@@ -17,12 +17,12 @@ Para que tudo funcione corretamente, você deve logar-se no [console](https://co
 Caso não tenha entendido muito bem, assista [este vídeo](https://www.youtube.com/watch?v=m2PcNkelJG0&t=19s&ab_channel=BrunoRaiado) a partir do minuto [3:00](https://www.youtube.com/watch?v=m2PcNkelJG0&t=19s&ab_channel=BrunoRaiado) até o minuto [3:15](https://www.youtube.com/watch?v=m2PcNkelJG0&t=19s&ab_channel=BrunoRaiado). Muito simples!
 
 ## 📌 Configurando o projeto!
-Agora vamos configurar o projeto criado e dar "vida" a ele.
-- Assim que entrar no console do seu projeto, procure por "Realtime Database" no lado esquerdo da sua tela;
-- Após abrir a página da database, clique em "Criar banco de dados";
-- Escolha o servidor que você deseja. Como é um bot para Discord, recomento escolher "Estados Unidos (us=central1);
-- Logo que clicar em "avançar", selecione o "modo de testes" (o seu bot precisa de acesso, essa é a melhor opção);
-- Clique em "ativar" e está pronto!
+Agora vamos configurar o projeto criado e dar "**vida**" a ele.
+- Assim que entrar no console do seu projeto, procure por "**Realtime Database**" no lado esquerdo da sua tela;
+- Após abrir a página da database, clique em "**Criar banco de dados**";
+- Escolha o servidor que você deseja. Como é um bot para Discord, recomento escolher "**Estados Unidos (us=central1)**";
+- Logo que clicar em "**avançar**", selecione o "**modo de testes**" (o seu bot precisa de acesso, essa é a melhor opção);
+- Clique em "**ativar**" e está pronto!
 
 
 # 🙋‍♂️ Ainda não acabou!
